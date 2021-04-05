@@ -1,16 +1,29 @@
 {
-  "name": "pugtohtml",
-  "version": "1.0",
+  "name": "@mehtaarn000/pugtohtml",
+  "version": "1.0.0",
   "description": "Convert pug to html",
-  "main": "src/index.js",
-  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehtaarn000/pugtohtml.git"
+  },
+  "keywords": [
+    "\"pug\"",
+    "\"to",
+    "html\"",
+    "\"html\"",
+    "\"pugtohtml\""
+  ],
   "author": "mehtaarn000",
   "license": "MIT",
-  "dependencies": {
-    "node-fetch": "^2.6.1"
-  }
+  "bugs": {
+    "url": "https://github.com/mehtaarn000/pugtohtml/issues"
+  },
+  "homepage": "https://github.com/mehtaarn000/pugtohtml#readme"
 }
