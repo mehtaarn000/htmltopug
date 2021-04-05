@@ -2,6 +2,7 @@
   "name": "@mehtaarn000/pugtohtml",
   "version": "1.0.0",
   "description": "Convert pug to html",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
     "node-fetch": "^2.6.1"
