@@ -1,6 +1,6 @@
 {
   "name": "@mehtaarn000/pugtohtml",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert pug to html",
   "type": "module",
   "main": "index.js",
