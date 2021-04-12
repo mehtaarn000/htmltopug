@@ -28,7 +28,7 @@ export class HtmlConverter {
     }
     
     /**
-     * 
+     * Convert an HTML string to a Pug string
      * @param {String} htmlData - The HTML data you want to convert 
      * @returns {String} The converted pug data
      */
