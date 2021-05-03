@@ -12,7 +12,7 @@ export class HtmlConverter {
      */
     async convertHtmlFile(filename) {
         const htmlData = readFileSync(filename, "utf8")
-        const pugData = await this.convertHtml(htmlData)
+        const pugData = this.convertHtml(htmlData)
         return pugData
     }
     
@@ -23,7 +23,7 @@ export class HtmlConverter {
      */
     async convertAndWriteHtmlFile(filename, outfile) {
         const htmlData = readFileSync(filename, "utf8")
-        const pugData = await this.convertHtml(htmlData)
+        const pugData = this.convertHtml(htmlData)
         writeFileSync(outfile, pugData)
     }
     
