@@ -1,7 +1,7 @@
 {
-  "name": "@mehtaarn000/pugtohtml",
+  "name": "@mehtaarn000/htmltopug",
   "version": "1.0.3",
-  "description": "Convert pug to html",
+  "description": "Convert html to pug",
   "type": "module",
   "main": "index.js",
   "dependencies": {
@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mehtaarn000/pugtohtml.git"
+    "url": "git+https://github.com/mehtaarn000/htmltopug.git"
   },
   "keywords": [
     "\"pug\"",
     "\"to",
     "html\"",
     "\"html\"",
-    "\"pugtohtml\""
+    "\"htmltopug\""
   ],
   "author": "mehtaarn000",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mehtaarn000/pugtohtml/issues"
+    "url": "https://github.com/mehtaarn000/htmltopug/issues"
   },
-  "homepage": "https://github.com/mehtaarn000/pugtohtml#readme"
+  "homepage": "https://github.com/mehtaarn000/htmltopug#readme"
 }

@@ -1,5 +1,5 @@
-# pugtohtml
-Convert pug to html (requires a network connection)
+# htmltopug
+Convert html (requires a network connection)
 
 ## Usage
 You can convert an html string:
